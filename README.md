@@ -17,9 +17,6 @@ Delete Student
 
 ### Web Screenshots
 
-Index Layout
-![Index Layout](images/Index.PNG "Index Layout")
-
 New Student
 ![New Student](images/NewStudent.PNG "New Student")
 
