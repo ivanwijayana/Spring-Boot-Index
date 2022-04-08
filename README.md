@@ -25,4 +25,3 @@ New Student
 
 Edit Student
 ![Edit Student](images/Edit.PNG "Edit Student")
-emove Success](img/Capture11.JPG "Remove Success")
